@@ -1,0 +1,10 @@
+body{
+background-color: black;
+font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+color: rgb(255, 255, 255);
+font-size: 25px;
+}
+table{
+    
+    border-spacing: 40px;
+}
